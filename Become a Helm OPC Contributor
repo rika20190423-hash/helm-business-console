@@ -1,0 +1,48 @@
+# Helm Business Execution Console
+
+Helm is an open-source business execution console that turns scattered signals from meetings, WeCom, CRM and spreadsheets into actionable business priorities.
+
+Helm helps companies answer:
+
+- Which customer leads are losing momentum?
+- Which meeting decisions have no follow-up owner?
+- Which sales or delivery risks need attention today?
+- Which business actions should the founder or manager prioritize?
+
+## Why Helm
+
+Many companies already have CRM, WeCom, spreadsheets and meeting notes.
+
+The problem is not lack of tools.
+
+The problem is that signals are scattered, priorities are unclear, and follow-up actions are not continuously closed.
+
+Helm helps turn these scattered signals into:
+
+- business issues
+- action items
+- owners
+- follow-up rhythm
+- review loops
+
+## We are looking for technical OPC contributors
+
+OPC means One-Person Company / Operator-Partner Contributor.
+
+You do not need to join full-time.
+
+We are looking for people who can contribute one of the following:
+
+- enterprise workflow scenarios
+- CRM / WeCom / spreadsheet integrations
+- AI agent workflows
+- deployment and implementation templates
+- 4-week pilot playbooks
+- business execution case studies
+
+Start here:
+
+- Submit a business scenario
+- Pick a good first issue
+- Join a discussion
+- Help us test Helm in a real enterprise workflow
