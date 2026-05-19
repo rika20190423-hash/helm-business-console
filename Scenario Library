@@ -1,0 +1,43 @@
+# Scenario Library
+
+## Sales lead follow-up
+
+Signals:
+- CRM lead status
+- WeCom conversation frequency
+- meeting notes
+- next action date
+
+Business risk:
+The lead is warm but no one follows up for 7 days.
+
+Helm action:
+Create a priority task for the sales owner and notify the founder if no action happens.
+
+## Meeting action closure
+
+Signals:
+- meeting notes
+- action items
+- owner
+- due date
+
+Business risk:
+Decisions are made but no one follows through.
+
+Helm action:
+Track decision-action-owner-review loop.
+
+## Customer renewal risk
+
+Signals:
+- CRM renewal date
+- support tickets
+- low usage
+- negative feedback
+
+Business risk:
+Customer may churn.
+
+Helm action:
+Generate renewal risk card and assign customer success owner.
